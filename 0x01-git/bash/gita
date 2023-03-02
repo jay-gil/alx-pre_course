@@ -16,4 +16,7 @@ git commit -m $q_marks"$message"$q_marks
 git push
 
 git status
+<<<<<<< HEAD
 
+=======
+>>>>>>> update_script
